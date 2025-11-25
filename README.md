@@ -3,20 +3,17 @@
 A complete end-to-end pipeline that transforms raw financial transactions into a structured database and an interactive Power BI dashboard for real-time personal finance analytics.
 
 ##  Table of Contents  
-- [Background](#-background)  
-- [Objectives](#-objectives)  
-- [Scope](#-scope)  
-- [Data](#-data)  
-- [Methodology](#-methodology)  
-- [Deliverables](#-deliverables)  
-- [Visuals / Screenshots](#-visuals--screenshots)  
-- [Insights](#-insights)  
-- [Recommendations](#-recommendations)  
-- [Expected Impact](#-expected-impact)  
-- [Usage / How to Run](#-usage--how-to-run)  
-- [Future Work](#-future-work)  
-- [License](#-license)  
-
+- Background  
+- Objectives  
+- Scope  
+- Data  
+- Methodology  
+- Deliverables  
+- Visuals / Screenshots  
+- Insights  
+- Recommendations  
+- Expected Impact
+  
 ## Background  
 Managing personal finances often requires visibility into spending habits, income trends, and cash flow behavior. This project was created to build an automated, reliable, and interactive system that processes raw transaction data and converts it into actionable financial insights.
 
